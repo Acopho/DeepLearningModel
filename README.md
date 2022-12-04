@@ -2,8 +2,8 @@
 
 ## Luis Ignacio Ferro Salinas A01378248
 
-El google colab con mi avance: 
-https://colab.research.google.com/drive/1aGX3fF73XOMDAjIg_VN1V8WUVS77nDyC?usp=sharing
+El google colab con mi segundo avance: 
+https://colab.research.google.com/drive/1bwB96a00Ej12vmKOhzb_BNiHFDPUsq3V?usp=sharing
 
-La carpeta en donde está el dataset que utilicé:
-https://drive.google.com/drive/folders/1B4sY5M-Q05LBEV8utGa9rMczq2TqH4C3?usp=sharing
+La carpeta en donde está el dataset que utilicé y donde guardé mi mejor modelo:
+https://drive.google.com/drive/folders/1pMJ8Q8J8chFoWzZVdaBMFtRFP7aDQxAc?usp=sharing
